@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aniket Kolte
 - 👀 I’m interested in Cloud Computing & Information Security
-- 🌱 I’m currently pursuing B.tech in Computer Science
+- 🌱 B.tech Computer Science Graduate
 
 
 
